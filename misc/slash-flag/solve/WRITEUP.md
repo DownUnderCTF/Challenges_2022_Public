@@ -17,7 +17,7 @@ if (!isOrganiser) {
 
 4. Attempting to add the bot to your own server will be successful meaning that it is a public bot. This will allow us to create a role with the name "Organiser" on our own server.
 5. Now that we can execute slash commands on the bot you will find the source code for these commands on the github repository.
-6. Reading the code, you will notice the "create" command is vulnerable to OS command injection via the "filename" parameter. This is because parameters are usually sanitised with the quote function from the "shell-quote" library however, the "filename" parameter is not.
+6. Reading the code, you will notice the "create" command is vulnerable to OS command injection via the "filename" parameter. ~~This is because parameters are usually sanitised with the quote function from the "shell-quote" library however, the "filename" parameter is not.~~ I was proved wrong. Well done! `"$(cat${IFS}/flag/flag.txt)"` avoids spaces.
 
 ```js
 // /commands/create.js - Line 27
