@@ -1,0 +1,21 @@
+version: "0.1"
+id: solve-me
+name: Solve Me
+category: blockchain
+description: |
+  Aight warm up time. All you gotta do is call the solve function. You can do it!
+
+  Goal: Call the solve function!
+
+  Author: @bluealder
+tags:
+  - beginner
+files:
+  - ./publish/SolveMe.sol
+flags:
+  - DUCTF{muM_1_did_a_blonkchain!}
+hosting:
+  type: blockchain
+type: kubectf
+extra:
+  template_name: blockchain-solveme

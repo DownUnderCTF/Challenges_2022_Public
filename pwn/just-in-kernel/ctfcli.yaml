@@ -1,0 +1,20 @@
+version: "0.1"
+id: just-in-kernel
+name: just-in-kernel
+category: pwn
+description: |
+  A just-in-time compiler implemented completely within the kernel, wow! It's pretty limited in terms of functionality so it must be memory safe, right?
+
+  Author: sradley#1448
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/bzImage
+  - ./publish/initramfs.cpio.gz
+  - ./publish/launch.sh
+flags:
+  - DUCTF{1_gu355_iT_W4SnT_m3m0Ry_s4Fe_4Fter_4ll}
+hosting:
+  type: kube
+  template: tcp-challenge-hi-cpu.yaml

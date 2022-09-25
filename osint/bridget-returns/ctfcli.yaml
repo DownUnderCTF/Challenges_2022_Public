@@ -1,0 +1,57 @@
+version: "0.1"
+id: bridget-returns
+name: Bridget Returns!
+category: OSINT
+description: |
+  Bridget is back, she's asked me to meet her at: `download.pausing.counterparts`
+
+  What is the name of the bridge she's meeting me on?
+
+  Flag format: The name of the bridge with no spaces, case insensitive
+
+  Author: Yo_Yo_Bro
+
+tags:
+  - easy
+
+flags:
+    - {
+        type: "static",
+        content: "TedSmoutMemorialBridge",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "TedSmoutMemorial",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "Ted Smout Memorial Bridge",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "Ted Smout Memorial",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{TedSmoutMemorialBridge}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{TedSmoutMemorial}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{Ted Smout Memorial Bridge}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{Ted Smout Memorial}",
+        data: "case_insensitive",
+    }

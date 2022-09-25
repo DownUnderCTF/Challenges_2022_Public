@@ -1,0 +1,24 @@
+version: "0.1"
+id: secret-and-ephemeral
+name: Secret and Ephemeral
+category: blockchain
+description: |
+  Can you recover the lost secrets of this contract and take what is (not) rightfully yours?
+
+  Goal: Steal all the funds from the contract.
+
+  Author: @bluealder
+hosting_type: blockchain
+
+tags:
+  - medium
+
+files:
+  - ./publish/SecretAndEphemeral.sol
+
+flags:
+  - DUCTF{u_r_a_web3_t1me_7raveler_:)}
+
+type: kubectf
+extra:
+  template_name: blockchain-secretandephemeral

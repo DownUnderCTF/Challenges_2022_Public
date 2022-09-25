@@ -1,0 +1,19 @@
+version: "0.1"
+id: minimal-php
+name: minimal-php
+category: web
+description: |
+  Show us that you are the true PHP master!
+
+  Author: hashkitten
+connection_info: ${url}
+tags:
+  - hard
+files:
+  - ./publish/Dockerfile
+  - ./publish/index.php
+flags:
+  - DUCTF{i_love_minimal_php...<3...how_about_you?}
+hosting:
+  type: kube
+  template: web-challenge.yaml

@@ -1,0 +1,22 @@
+version: "0.1"
+id: crypto-casino
+name: Crypto Casino
+category: blockchain
+description: |
+  Come play at the crypto casino and use real crypto(graphy) skills to earn fake crypto(currency)
+
+  Goal: Gain a balance of 1337 DUCoin.
+
+  Author: joseph#8210
+tags:
+  - easy
+files:
+  - ./publish/DUCoin.sol
+  - ./publish/Casino.sol
+flags:
+  - DUCTF{sh0uldv3_us3d_a_vrf??}
+hosting:
+  type: blockchain
+type: kubectf
+extra:
+  template_name: blockchain-cryptocasino

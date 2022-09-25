@@ -1,0 +1,22 @@
+version: "0.1"
+id: pre-kebab-competition
+name: Pre-Kebab Competition
+category: OSINT
+description: |
+  Where was the photo taken from?
+
+  Flag format: Building name with no spaces, case insensitive </br>
+  Flag example: `DUCTF{SydneyOperaHouse}`
+
+  Author: NoSurf#3704
+tags:
+  - easy
+files:
+  - ./publish/OSINTGEO.jpg
+flags:
+  - {type: "static", content: "EppingHotel", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{EppingHotel}", data: "case_insensitive"}
+  - {type: "static", content: "Epping Hotel", data: "case_insensitive"}
+  - {type: "static", content: "DUCTF{Epping Hotel}", data: "case_insensitive"}
+hosting:
+  type: file

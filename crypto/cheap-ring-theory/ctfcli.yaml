@@ -1,0 +1,18 @@
+version: "0.1"
+id: cheap-ring-theory
+name: cheap ring theory
+category: crypto
+description: |
+  Can you reveal the structures?
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+files:
+  - ./publish/crt.sage
+flags:
+  - DUCTF{CRT_e4sy_as_0ne_tw0_thr3e}
+hosting:
+  type: kube
+  template: tcp-challenge.yaml

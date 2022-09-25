@@ -1,0 +1,18 @@
+version: "0.1"
+id: dyslexxec
+name: dyslexxec
+category: web
+description: |
+  Testing out the openpyxl library for python but there's some functionality I wish it had.
+
+  Author: JZT
+connection_info: ${url}
+files:
+  - ./publish/dyslexxec.tar.gz
+tags:
+  - easy
+flags:
+  - DUCTF{cexxelsyd_work_my_dyslexxec_friend}
+hosting:
+  type: kube
+  template: web-challenge.yaml

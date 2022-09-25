@@ -1,0 +1,18 @@
+version: "0.1"
+id: noteworthy
+name: noteworthy
+category: web
+description: |
+  What's a beginner-friendly CTF without a totally not generic Bootstrap note taking web chall?
+
+  Author: joseph#8210
+connection_info: ${url}
+tags:
+  - easy
+files:
+  - ./publish/noteworthy.tar.gz
+flags:
+  - DUCTF{n0sql1_1s_th3_new_5qli}
+hosting:
+  type: kube-custom
+  template: web-challenge.yaml

@@ -1,0 +1,19 @@
+version: "0.1"
+id: click-the-flag
+name: click the flag
+category: rev
+description: |
+  Show us your CTFing skills!
+
+  Author: joseph#8210
+
+hosting_type: file
+
+tags:
+  - medium
+
+files:
+  - ./publish/ctf.apk
+
+flags:
+  - DUCTF{d1d_y0u_r43lly_th1nk_y0u_w0uld_g3t_4_fl4g_f0r_pl4y1ng_a_game?_6e927fd2e11abcd4}

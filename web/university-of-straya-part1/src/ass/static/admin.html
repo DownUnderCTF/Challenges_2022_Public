@@ -1,0 +1,119 @@
+<!DOCTYPE HTML>
+<!--
+	Dimension by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>Uni of Straya - ASS</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<link rel="stylesheet" href="assets/css/jquery.notifyBar.css" />
+		<noscript><link rel="stylesheet" href="/assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Header -->
+					<header id="header">
+						<div class="logo" >
+							<img class="flag" src="/images/flag.gif" />
+						</div>
+						<div class="content">
+							<div class="inner">
+								<h1>Assignment Submission System</h1>
+							</div>
+						</div>
+						<nav>
+							<ul>
+								<li><a href="#add-assessment">Add Assessment</a></li>
+								<li><a href="#enrol-student">Enrol Student</a></li>
+								<li><a href="/dashboard">Dashboard</a></li>
+								<li><a href="/api/auth/logout?redirect=/logout">Logout</a></li>
+							</ul>
+						</nav>
+					</header>
+
+				<!-- Main -->
+					<div id="main">
+
+						<!-- Add Assessment -->
+							<article id="add-assessment">
+								<h2 class="major">Add a New Assessment</h2>
+								<div class="field half">
+									<input type="text" style="margin-bottom: 5px;" name="assessments-name" id="assessments-name" value="" placeholder="Assessment Name" />
+								</div>
+								<div class="field half">
+									<input type="text" style="margin-bottom: 5px;" name="assessments-desc" id="assessments-desc" value="" placeholder="Assessment Description" />
+								</div>
+								<div class="field">
+									<label for="assessment-units">Select Unit</label>
+									<select name="assessment-units" id="assessment-units">
+										<option value="">-</option>
+									</select>
+								</div>
+								<div class="field">
+									<label for="assessment-type">Select Type</label>
+									<select name="assessment-type" id="assessment-type">
+										<option value="file">File</option>
+										<option value="zip">Archive File</option>
+									</select>
+								</div>
+								<div class="field half">
+									<label for="assessment-marks">Total Marks</label>
+									<input type="number" style="margin-bottom: 5px;" name="assessments-marks" id="assessments-marks" value="" placeholder="Total Marks" />
+								</div>
+								<div class="field half">
+									<label for="assessments-deadline">Assignment Deadline</label>
+									<input type="date" style="margin-bottom: 5px;" name="assessments-deadline" id="assessments-deadline" value="" placeholder="Assignment Deadline" />
+								</div>
+								<div class="field half">
+									<input type="submit" id="submit-new-assignment" value="Create Assignment" class="primary" onclick="createAssignment()" />
+								</div>
+							</article>
+
+						<!-- Enrol Student -->
+							<article id="enrol-student">
+								<h2 class="major">Enrol Student</h2>
+								<div class="field">
+									<label for="students-students">Select Student</label>
+									<select name="students-students" id="students-students">
+										<option value="">-</option>
+									</select>
+								</div>
+								<div class="field">
+									<label for="students-units">Select Unit</label>
+									<select name="students-units" id="students-units">
+										<option value="">-</option>
+									</select>
+								</div>
+								<div class="field half">
+									<input type="submit" id="add-student" value="Enrol Student" class="primary" onclick="enrolStudent()" />
+								</div>
+							</article>
+					</div>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<p class="copyright">&copy; Untitled. Design: <a href="https://html5up.net">HTML5 UP</a>.</p>
+					</footer>
+
+			</div>
+
+		<!-- BG -->
+			<div id="bg"></div>
+
+		<!-- Scripts -->
+			<script src="/assets/js/jquery.min.js"></script>
+			<script src="/assets/js/jquery.notifyBar.js"></script>
+			<script src="/assets/js/browser.min.js"></script>
+			<script src="/assets/js/breakpoints.min.js"></script>
+			<script src="/assets/js/util.js"></script>
+			<script src="/assets/js/main.js"></script>
+			<script src="/assets/js/admin.js"></script>
+	</body>
+</html>

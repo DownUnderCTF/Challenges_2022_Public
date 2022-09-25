@@ -1,0 +1,32 @@
+<head>
+    <link rel="stylesheet" href="https://pyscript.net/latest/pyscript.css" />
+    <script defer src="https://pyscript.net/latest/pyscript.js"></script>
+    <py-script src="./adventure.py"> </py-script>
+</head>
+<body>
+    <div style="display: flex; flex-flow: column; height: 99vh;">
+        <py-title>The adventures of Drop Bear Jimmy</py-title>
+        <div id="terminal" class="flex flex-col-reverse mt-4" style=" background-color: grey; margin-left: auto; margin-right: auto; width: 90%; flex: 1; overflow-y: scroll; margin-top: auto; margin-bottom: auto;"></div>
+        <div style="display: flex; width: 90%; margin-left: auto; margin-right: auto">
+            <py-inputbox id="new-log-content" style="width:100%">
+                def on_keypress(e):
+                    if (e.code == "Enter"):
+                        x.add_log()
+            </py-inputbox>
+            <button style="margin-left: auto; margin-right: 0;" id="new-log-btn"
+                class="p-2 text-white bg-blue-600 border border-blue-600 rounded" pys-onClick="add_log">Enter!</button>
+        </div>
+    </div>
+    
+    <template id="log-template">
+        <section class="log py-li-element" style="border-width: 1px; border-color: black;">
+            <label for="flex items-center p-2 ">
+                <p class="timestamp m-0 inline"></p>
+                <p class="text m-0 inline"></p>
+            </label>
+        </section>
+    </template>
+
+
+
+</body>

@@ -1,0 +1,10 @@
+#!/bin/sh
+export MOUNTS_FOLDER="/mounts"
+export STORAGE_FOLDER="/storage"
+
+if [[ ! "$1" =~ ^[0-9]+$ ]]; then
+  echo "Invalid guild ID"
+  exit 1
+fi
+
+flock -xn "$STORAGE_FOLDER/$1.lck" ./run_command "$1" "$2" 

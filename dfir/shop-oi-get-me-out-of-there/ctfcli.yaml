@@ -1,0 +1,21 @@
+version: "0.1"
+id: shop_oi_get_out_of_there
+name: Shop-Oi! Get out of there!
+category: DFIR
+description: |
+  Someone was able to successfully break into the admin account! 
+
+  Do you know what the old password was?
+
+  Flag format: The password, case insensitive
+
+  Author: Cake#4096
+
+tags:
+  - medium
+
+flags:
+  - ozzieozzieozzie
+
+requirements:
+  - "Shop-Setup&Disclaimer"

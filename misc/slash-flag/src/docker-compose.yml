@@ -1,0 +1,7 @@
+version: "3"
+services:
+    storage-bot:
+        build: "."
+        image: storage-bot:latest
+        container_name: storage-bot
+        privileged: true

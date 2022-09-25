@@ -1,0 +1,24 @@
+version: "0.1"
+id: artisan
+name: artisan
+category: rev
+description: |
+  Welcome to the closed beta of my new GUI paint program. NOTE: File load not implemented yet.
+
+  Author: hashkitten
+
+hosting_type: file
+
+tags:
+  - hard
+
+files:
+  - ./publish/artisan
+  - ./publish/flag.art
+
+flags:
+  - {
+    type: "static",
+    content: "DUCTF{FZKAITYR}",
+    data: "case_insensitive"
+  }

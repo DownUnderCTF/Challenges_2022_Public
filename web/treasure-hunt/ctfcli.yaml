@@ -1,0 +1,16 @@
+version: "0.1"
+id: treasure-hunt
+name: Treasure Hunt
+category: web
+description: |
+  Well the world has been looking for this treasure for the last 25 years. Maybe you will have a better chance at finding it?
+
+  Author: Crem#2193
+connection_info: ${url}
+tags:
+  - easy
+flags:
+  - DUCTF{7h3-0n3-p13c3-15-4ll-7h3-fl465-y0u-637-4l0n6-7h3-w4y}
+hosting:
+  type: kube
+  template: web-challenge.yaml

@@ -1,0 +1,15 @@
+version: "0.1"
+id: helicoptering
+name: helicoptering
+category: web
+description: |
+  Is that an Apache I overheard?
+
+  Author: hashkitten
+connection_info: ${url}
+tags:
+  - beginner
+flags:
+  - DUCTF{thats_it_next_time_im_using_nginx}
+hosting:
+  type: kube-custom

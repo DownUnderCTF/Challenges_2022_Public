@@ -1,0 +1,17 @@
+version: "0.1"
+id: evm-vault-mechanism
+name: EVM Vault Mechanism
+category: blockchain
+description: |
+  Unlock the vault and the treasures are yours.
+
+  Author: joseph#8210
+tags:
+  - hard
+flags:
+  - DUCTF{b3y0nd_th3_v4ult_li3s_a_w3ll_d3serv3d_fl4g}
+hosting:
+  type: blockchain
+type: kubectf
+extra:
+  template_name: blockchain-evmvault

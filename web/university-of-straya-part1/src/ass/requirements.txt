@@ -1,0 +1,7 @@
+flask
+requests
+pyjwt[crypto]
+Flask-Caching
+Flask-SQLAlchemy
+python-magic
+bcrypt

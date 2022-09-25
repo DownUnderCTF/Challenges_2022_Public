@@ -1,0 +1,20 @@
+version: "0.1"
+id: source-provided
+name: source provided
+category: rev
+description: |
+  In this reversing challenge, source is provided.
+
+  Author: joseph#8210
+
+hosting_type: file
+
+tags:
+  - beginner
+
+files:
+  - ./publish/chall
+  - ./publish/chall.S
+
+flags:
+  - DUCTF{r3v_is_3asy_1f_y0u_can_r34d_ass3mbly_r1ght?}

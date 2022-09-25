@@ -1,0 +1,18 @@
+version: "0.1"
+id: faulty-arx
+name: faulty arx
+category: crypto
+description: |
+  I tried to implement another ARX cipher...
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/faulty_arx.py
+flags:
+  - DUCTF{las3r_b34ms_4nd_g4mm4_r4ys_p0s3_a_s3r10us_thr34t_t0_cryp70gr4phy!1!!}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

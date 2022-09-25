@@ -1,0 +1,8 @@
+version: "3.8"
+services:
+  uni-of-straya:
+    container_name: uni-of-straya-container
+    build: ./src
+    image: uni-of-straya
+    ports:
+      - 80:80

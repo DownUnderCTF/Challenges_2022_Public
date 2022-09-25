@@ -1,0 +1,25 @@
+version: "0.1"
+id: shop_knock_knock_knock
+name: Shop-Knock Knock Knock
+category: DFIR
+description: |
+  Looks like there's been a bruteforce/password spray attempt against the website! 
+
+  What's the contact email for the ISP of the attacker's IP?
+
+  Flag format: Email address, case insensitive
+
+  Author: Cake#4096
+
+tags:
+  - easy
+
+flags:
+  - {
+    type: "static",
+    content: "abuse@telstra.net",
+    data: "case_insensitive"
+  }
+
+requirements:
+  - "Shop-Setup&Disclaimer"

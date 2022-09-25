@@ -1,0 +1,18 @@
+version: "0.1"
+id: ezpz-rev
+name: ezpz-rev
+category: rev
+description: |
+  CTFing is tiring. Take a break with this easy puzzle!
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/ezpz
+flags:
+  - DUCTF{gr1d_puzzl3s_ar3_t00_ez_r1ght?}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

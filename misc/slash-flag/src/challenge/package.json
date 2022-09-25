@@ -1,0 +1,30 @@
+{
+  "name": "discord-bot-template",
+  "version": "1.0.0",
+  "description": "This is a template for me to use for when I am creating a discord bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "NODE_ENV=prod node index.js",
+    "dev": "NODE_ENV=dev nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Solopie/discord-bot-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Solopie/discord-bot-template/issues"
+  },
+  "homepage": "https://github.com/Solopie/discord-bot-template#readme",
+  "dependencies": {
+    "@discordjs/rest": "^1.0.1",
+    "discord.js": "^14.1.2",
+    "dotenv": "^16.0.1",
+    "shell-quote": "^1.7.3"
+  },
+  "devDependencies": {
+    "eslint": "^8.21.0"
+  }
+}

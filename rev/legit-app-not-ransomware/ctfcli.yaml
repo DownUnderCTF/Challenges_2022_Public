@@ -1,0 +1,18 @@
+version: "0.1"
+id: legit-app-not-ransomware
+name: Legit App Not Ransomware
+category: rev
+description: |
+  We've been sent this file... it looks so tempting. It says it's not ransomware... so it should be safe right?
+
+  NOTE: Don't panic if you do run it, it doesn't do anything!
+
+  Author: NoSurf#3704
+tags:
+  - easy
+files:
+  - ./publish/LegitAppNotRansomware.exe
+flags:
+  - DUCTF{d1d_y0u_pan1c_0r_c00l_as_cucumb3r}
+hosting:
+  type: file

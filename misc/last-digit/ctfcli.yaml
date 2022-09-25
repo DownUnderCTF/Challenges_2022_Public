@@ -1,0 +1,19 @@
+version: "0.1"
+id: last-digit
+name: last digit
+category: misc
+description: |
+  Can you get the flag given its last digit?
+
+  Author: hashkitten, joseph
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/Dockerfile
+  - ./publish/last-digit.py
+flags:
+  - CTF{14288_bits_should_be_enough_for_anybody_:)}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

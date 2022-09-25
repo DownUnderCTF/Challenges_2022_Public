@@ -1,0 +1,18 @@
+version: "0.1"
+id: babypywn
+name: babyp(y)wn
+category: pwn
+description: |
+  Python is memory safe, right?
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - beginner
+files:
+  - ./publish/babypywn.py
+flags:
+  - DUCTF{C_is_n0t_s0_f0r31gn_f0r_incr3d1bl3_pwn3rs}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

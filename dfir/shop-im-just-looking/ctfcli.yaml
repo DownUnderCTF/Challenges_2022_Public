@@ -1,0 +1,25 @@
+version: "0.1"
+id: shop_im_just_looking
+name: Shop-I'm just looking!
+category: DFIR
+description: |
+  We've seen some vulnerability scanning activity against us! 
+
+  What was the name of the tool used?
+
+  Flag format: Name of the tool used, case insensitive
+
+  Author: Cake#4096
+
+tags:
+  - easy
+
+flags:
+  - {
+    type: "static",
+    content: "nuclei",
+    data: "case_insensitive"
+  }
+
+requirements:
+  - "Shop-Setup&Disclaimer"

@@ -1,0 +1,19 @@
+version: "0.1"
+id: survey
+name: Survey
+category: survey
+description: |
+  Your feedback helps us to improve DUCTF each year. Please take the time to fill out the survey form and tell us what you thought about DUCTF 2022! 
+
+  [**Link to survey**](https://forms.gle/P57Ngdk2CqnMSxJv8)
+
+  Author: DUCTF
+
+flags:
+  - DUCTF{thx_4_playing_DUCTF_2022}
+
+tags:
+  - beginner
+
+type: standard
+value: 50

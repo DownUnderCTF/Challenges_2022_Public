@@ -1,0 +1,19 @@
+version: "0.1"
+id: login
+name: login
+category: pwn
+description: |
+  Free shell for admins!
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/login
+  - ./publish/login.c
+flags:
+  - DUCTF{th3_4uth_1s_s0_bad_1t_d0esnt_ev3n_us3_p4ssw0rds}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

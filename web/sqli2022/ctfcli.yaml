@@ -1,0 +1,19 @@
+version: "0.1"
+id: sqli2022
+name: sqli2022
+category: web
+description: |
+  SQL injection challenges are still a thing in 2022!?!?
+
+  Author: hashkitten
+connection_info: ${url}
+tags:
+  - medium
+files:
+  - ./publish/app.py
+  - ./publish/Dockerfile
+flags:
+  - DUCTF{alternative_solution_was_just_to_crack_the_hash_:p}
+hosting:
+  type: kube
+  template: web-challenge.yaml

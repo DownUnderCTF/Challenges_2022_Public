@@ -1,0 +1,18 @@
+version: "0.1"
+id: rsa-interval-oracle-ii
+name: rsa interval oracle ii
+category: crypto
+description: |
+  This time you only get one interval...
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+files:
+  - ./publish/rsa-interval-oracle-ii.py
+flags:
+  - DUCTF{Manger_w0uld_b3_pr0ud_0f_y0u}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

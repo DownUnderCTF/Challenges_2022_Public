@@ -1,0 +1,14 @@
+version: "0.1"
+id: slashflag
+name: Slash Flag
+category: misc
+description: |
+  I decided to apply my bash scripting knowledge to create a discord bot called Storage Bot for the DownUnderCTF discord server. I hope it's safe!
+
+  Author: Solopie#0530
+
+tags:
+  - easy
+
+flags:
+  - DUCTF{/flag_didn't_work_for_me...}

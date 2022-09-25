@@ -1,0 +1,11 @@
+version: '3'
+
+services:
+  chall:
+    build: ./src
+    restart: always
+    ports:
+      - "80:5000"
+    environment:
+      - FLAG=DUCTF{alternative_solution_was_just_to_crack_the_hash_:p}
+    read_only: true

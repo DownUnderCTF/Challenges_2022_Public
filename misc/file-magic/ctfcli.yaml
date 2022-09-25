@@ -1,0 +1,20 @@
+version: "0.1"
+id: file-magic
+name: file magic
+category: misc
+description: |
+  Are you a file magician?
+
+  Flag is in `flag.txt` relative to cwd.
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+files:
+  - ./publish/file-magic.py
+flags:
+  - DUCTF{y0u_4r3_4_f1l3_m4g1c14n_ab8a8133fef871becaf1}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

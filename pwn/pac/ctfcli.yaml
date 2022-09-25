@@ -1,0 +1,19 @@
+version: "0.1"
+id: pac
+name: pac
+category: pwn
+description: |
+  We've rolled our own pointer authentication for our kernel module, so we don't need other protections like SMEP and SMAP...
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+  - crypto
+files:
+  - ./publish/pac.tar.gz
+flags:
+  - DUCTF{pac_must_stand_for_pwn_and_crypto_9b8a1bc12f2a39cc}
+hosting:
+  type: kube
+  template: tcp-challenge-hi-cpu.yaml

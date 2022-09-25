@@ -1,0 +1,3 @@
+RewriteEngine On
+RewriteCond %{THE_REQUEST} flag
+RewriteRule ".*" "-" [F]

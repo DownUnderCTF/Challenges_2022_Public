@@ -1,0 +1,18 @@
+version: "0.1"
+id: family-tree
+name: family tree
+category: pwn
+description: |
+  Family Tree Manager v0.1.0 now with self pruning!
+
+  Author: grub#6058
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/family-tree.tar.gz
+flags:
+  - DUCTF{4_l0ng_l1n3_0f_g4rb4g3_c0113ct0r5}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

@@ -1,0 +1,18 @@
+version: "0.1"
+id: ezpz-pwn
+name: ezpz-pwn
+category: pwn
+description: |
+  The binary and server in this challenge are the same as "ezpz-rev". It is recommended to solve that first!
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/ezpz
+  - ./publish/libc-2.35.so
+flags:
+  - DUCTF{ez_r3t2l1bc_9b8a81cda3}
+hosting:
+  type: kube

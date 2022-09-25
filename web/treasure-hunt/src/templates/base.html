@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script type="text/javascript" src="https://youtube.com/iframe_api"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Where is it?</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.2/css/bulma.min.css" />
+    <style>
+        body {
+            background-image: url('https://towercitymediavideo.files.wordpress.com/2020/01/img_1083-1.jpg?w=620');
+        }
+    </style>
+
+</head>
+
+<body>
+    <script type="text/javascript">
+        var player;
+
+        function onYouTubeIframeAPIReady() {
+            player = new YT.Player('ytplayer', {
+                height: '0',
+                width: '0',
+                playerVars: {
+                    autoplay: 1,
+                    loop: 1,
+                    cc_load_policy: 1,
+                    controls: 0,
+                    showinfo: 0,
+                    playlist: 'RSe8D2wfGKI'
+                },
+                videoId: 'RSe8D2wfGKI',
+            });
+        }
+
+        function play() {
+            player.playVideo();
+        }
+    </script>
+    <section class="hero is-fullheight">
+        <div class="hero-head">
+            <nav class="navbar">
+                <div class="container">
+                    <div id="navbarMenuHeroA" class="navbar-menu">
+                        <div class="navbar-end">
+                            <div class="navbar-item">
+                                <div class="buttons">
+                                    {% if current_user %}
+
+                                    <a href="{{ url_for('profile') }}" class="button is-primary">
+                                        Profile
+                                    </a>
+                                    {% endif %}
+                                    {% if not current_user %}
+                                    <a href="{{ url_for('login') }}" class="button is-primary">
+                                        Login
+                                    </a>
+                                    <a href="{{ url_for('signup') }}" class="button is-light">
+                                        Sign Up
+                                    </a>
+                                    <a href="{{ url_for('index') }}" class="button is-light">
+                                        Home
+                                    </a>
+                                    {% endif %}
+                                    {% if current_user %}
+                                    <a href="{{ url_for('index') }}" class="button is-light">
+                                        Home
+                                    </a>
+                                    <a href="{{ url_for('logout') }}" class="button is-light">
+                                        Logout
+                                    </a>
+                                    {% endif %}
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </nav>
+        </div>
+
+        <div class="hero-body">
+            <div class="container has-text-centered">
+                {% block content %}
+                {% endblock %}
+            </div>
+        </div>
+        <div class="block is-medium has-text-centered ">
+            <div class="block">
+                <div class="button is-large is-danger" href="#" onclick="play()">
+                    Click here for some music to assist you on your voyage!
+                </div>
+            </div>
+            <div id="ytplayer"></div>
+        </div>
+    </section>
+</body>
+
+</html>

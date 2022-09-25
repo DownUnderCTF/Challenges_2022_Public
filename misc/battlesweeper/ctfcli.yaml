@@ -1,0 +1,18 @@
+version: "0.1"
+id: battlesweeper
+name: battlesweeper
+category: misc
+description: |
+  This CTF needs more guessing, so here you go.
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/battlesweep.py
+flags:
+  - DUCTF{gg_gu3ss1ng_g0d_8bdaf1232a}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

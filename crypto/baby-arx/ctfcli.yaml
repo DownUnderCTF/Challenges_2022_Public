@@ -1,0 +1,16 @@
+version: "0.1"
+id: baby-arx
+name: baby arx
+category: crypto
+description: |
+  I heard that add-rotate-xor are good operations for a cipher so I tried to make my own...
+
+  Author: joseph#8210
+tags:
+  - beginner
+files:
+  - ./publish/baby-arx.py
+flags:
+  - DUCTF{i_d0nt_th1nk_th4ts_h0w_1t_w0rks_actu4lly_92f45fb961ecf420}
+hosting:
+  type: file

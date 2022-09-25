@@ -1,0 +1,27 @@
+version: "0.1"
+id: low-level-web
+name: low-level web
+category: pwn
+description: |
+  Javascript's base64 implementation is way too slow! C++ is fast, right?
+
+  Note: the remote server likes to talk over fd 19.
+
+  Author: sradley#1448
+
+hosting:
+  type: kube
+type: kubectf
+extra:
+  template_name: pwn-lowlevelweb
+
+tags:
+  - medium
+  - web
+
+files:
+  - ./publish/source.zip
+  - ./publish/libc-2.31.so
+
+flags:
+  - DUCTF{Gu3SS_wh4Ts_N0_l0ng3R_M3m0Ry_s4fE?_5d2f45d7ef0e1ba4ecda7489ddf5d8a8}

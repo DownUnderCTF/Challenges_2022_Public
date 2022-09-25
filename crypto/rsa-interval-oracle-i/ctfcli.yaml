@@ -1,0 +1,18 @@
+version: "0.1"
+id: rsa-interval-oracle-i
+name: rsa interval oracle i
+category: crypto
+description: |
+  This oracle leaks a bit too much information...
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/rsa-interval-oracle-i.py
+flags:
+  - DUCTF{d1d_y0u_us3_b1n4ry_s34rch?}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

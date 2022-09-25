@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdn.simplecss.org/simple.css">
+  <title>My Memes</title>
+</head>
+<body>
+  <style>
+    img {
+      border: solid 2px;
+      border-bottom-color: #ffe;
+      border-left-color: #eed;
+      border-right-color: #eed;
+      border-top-color: #ccb;
+      max-height: 100%;
+      max-width: 100%;
+    }
+    figure {
+      background-color: #ddc;
+      border: solid 5vmin #eee;
+      border-bottom-color: #fff;
+      border-left-color: #eee;
+      border-radius: 2px;
+      border-right-color: #eee;
+      border-top-color: #ddd;
+      box-shadow: 0 0 5px 0 rgba(0, 0, 0, 0.25) inset, 0 5px 10px 5px rgba(0, 0, 0, 0.25);
+      box-sizing: border-box;
+      display: inline-block;
+      margin: 120px 120px;
+      height: 40vh;
+      padding: 8vmin;
+      position: relative;
+      text-align: center;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    figure:before {
+      border-radius: 2px;
+      bottom: -2vmin;
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25) inset;
+      content: "";
+      left: -2vmin;
+      position: absolute;
+      right: -2vmin;
+      top: -2vmin;
+    }
+    figure:after {
+      border-radius: 2px;
+      bottom: -2.5vmin;
+      box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.25);
+      content: "";
+      left: -2.5vmin;
+      position: absolute;
+      right: -2.5vmin;
+      top: -2.5vmin;
+    }
+  </style>
+  <header>
+    <h1>G'day</h1>
+    <p>These are my memes</p>
+  </header>
+
+  <main>
+    <figure>
+      <image src="/memes/1.jpg" />
+    </figure>
+    <figure>
+      <image src="/memes/2.jpg" />
+    </figure>
+    <figure>
+      <image src="/memes/3.jpg" />
+    </figure>
+    <figure>
+      <image src="/memes/4.jpg" />
+    </figure>
+    <figure>
+      <image src="/memes/flag.jpg" />
+    </figure>
+  </main>
+</body>
+</html>

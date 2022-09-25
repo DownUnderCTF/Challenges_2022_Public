@@ -1,0 +1,14 @@
+version: "0.1"
+id: twitter
+name: twitter
+category: misc
+description: |
+  O_O I spy with my little eye, the largest CTF in the southern hemisphere's twitter... O_O
+
+  Author: Crem#2193
+
+tags:
+  - beginner
+
+flags:
+  - DUCTF{the-mascot-on-the-ductf-hoodie-is-named-ducky}

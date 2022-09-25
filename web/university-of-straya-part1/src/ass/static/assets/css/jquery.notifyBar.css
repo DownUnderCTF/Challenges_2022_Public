@@ -1,0 +1,97 @@
+/*
+*  Notify Bar - jQuery plugin
+*
+*  Copyright (c) 2009-2015 Dmitri Smirnov
+*
+*  Licensed under the MIT license:
+*  http://www.opensource.org/licenses/mit-license.php
+*
+*  Project home:
+*  http://www.whoop.ee/posts/2013/04/05/the-resurrection-of-jquery-notify-bar.html
+*/
+
+/* Default bars' style */
+.jquery-notify-bar {
+    width:100%;
+    position:fixed;
+    top:0;
+    left:0;
+    z-index:32768;
+    background-color:#efefef;
+    font-size:18px;
+    color:#000;
+    text-align:center;
+    font-family: Arial, Verdana, sans-serif;
+    padding:20px 0px;
+    cursor: pointer;
+    border-bottom:1px solid #ddd;
+    -webkit-box-shadow: inset 0 -1px 0 0 #fff;
+       -moz-box-shadow: inset 0 -1px 0 0 #fff;
+            box-shadow: inset 0 -1px 0 0 #fff;
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(255, 255, 255, 0.5)), to(rgba(255, 255, 255, 0)));
+    background-image: -webkit-linear-gradient(rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    background-image: -moz-linear-gradient(rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    background-image: -o-linear-gradient(rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+    background-image: linear-gradient(rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 100%);
+  }
+  .jquery-notify-bar.bottom {
+    bottom:0;
+    top:auto;
+    border-top:1px solid #ddd;
+    border-bottom:0;
+    -webkit-box-shadow: inset 0 1px 0 0 #fff;
+       -moz-box-shadow: inset 0 1px 0 0 #fff;
+            box-shadow: inset 0 1px 0 0 #fff;
+  }
+  
+  .jquery-notify-bar.error .notify-bar-text-wrapper,
+  .jquery-notify-bar.warning .notify-bar-text-wrapper,
+  .jquery-notify-bar.success .notify-bar-text-wrapper {
+    padding: 1px 0 1px 23px;
+  }
+  
+  /* Style for errors */
+  .jquery-notify-bar.error {
+    color:#d00;
+    background-color:#fdd;
+  }
+  .jquery-notify-bar.error .notify-bar-text-wrapper {
+    background: transparent url("/images/jq-notify-bar-icons.svg") no-repeat 0 -62px;
+  }
+  
+  /* Style for warning */
+  .jquery-notify-bar.warning {
+    color:#000;
+    background-color:#fffaaa;
+  }
+  .jquery-notify-bar.warning .notify-bar-text-wrapper {
+    background: transparent url("/images/jq-notify-bar-icons.svg") no-repeat 1px 1px;
+  }
+  
+  /* Style for success */
+  .jquery-notify-bar.success {
+    color:#060;
+    background-color:#BBFFB6;
+  }
+  .jquery-notify-bar.success .notify-bar-text-wrapper {
+    background: transparent url("/images/jq-notify-bar-icons.svg") no-repeat 2px -31px;
+  }
+  
+  /* Style for info */
+  .jquery-notify-bar.info {
+    color: #31708f;
+    background-color: #d9edf7;
+  }
+  
+  /* Style for close button */
+  .notify-bar-close {
+    position:absolute;
+    left:97%;
+    top: 13px;
+    text-decoration: none;
+    color: #222;
+    font-size: 30px;
+  }
+  .notify-bar-close:hover {
+    color: #05f;
+  }

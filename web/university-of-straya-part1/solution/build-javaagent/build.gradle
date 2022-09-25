@@ -1,0 +1,30 @@
+apply plugin: 'java'
+
+jar.baseName = 'exploit'
+version = 0.1
+
+compileJava {
+    options.debug = true
+}
+
+sourceSets {
+    main {
+         java {
+            srcDirs = ['src']
+         }
+    }
+}
+
+jar {
+    archiveName = "${rootProject.name}-${rootProject.version}.jar"
+    manifest {
+        attributes(
+                'Premain-Class': 'src.Agent',
+                'Can-Redefine-Classes': 'true',
+                'Can-Retransform-Classes': 'true',
+                'Can-Set-Native-Method-Prefix': 'true',
+                'Implementation-Title': "ClassLogger",
+                'Implementation-Version': '0.1.0'
+        )
+    }
+}

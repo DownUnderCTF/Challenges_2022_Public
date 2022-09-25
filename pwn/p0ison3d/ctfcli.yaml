@@ -1,0 +1,20 @@
+version: "0.1"
+id: p0ison3d
+name: p0ison3d
+category: pwn
+description: |
+  Implemented my own note-taking app! Unfortunately I can only add three notes at a time.
+
+  Author: sradley#1448
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/p0ison3d
+  - ./publish/p0ison3d.c
+  - ./publish/libc-2.27.so
+flags:
+  - DUCTF{w3lc0ME_tO_tH3_h3ap_4nd_h4PPy_TC4che_p01s0nIng}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

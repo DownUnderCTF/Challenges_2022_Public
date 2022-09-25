@@ -1,0 +1,19 @@
+version: "0.1"
+id: xva
+name: xva
+category: rev
+description: |
+  For loops? Never heard of it.
+
+  Author: joseph#8210
+
+hosting_type: file
+
+tags:
+  - medium
+
+files:
+  - ./publish/xva
+
+flags:
+  - DUCTF{A_V3ry_eXc3ll3n7_r3v3rs3r}

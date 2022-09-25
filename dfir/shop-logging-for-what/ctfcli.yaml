@@ -1,0 +1,23 @@
+version: "0.1"
+id: shop_logging_for_what
+name: Shop-Logging for what?
+category: DFIR
+description: |
+  We implemented a basic IPS to help protect our site from new attacks. 
+
+  Somehow, a newer more sophisticated version of a regularly observed was successfully executed against the website. 
+
+  What is the name of the script that was run?
+
+  Flag format: Name of the script that was run, case sensitive.
+
+  Author: Conletz#5420
+
+tags:
+  - easy
+
+flags:
+  - pTCNp5p6LP0d7qA77yvb4SHf40
+
+requirements:
+  - "Shop-Setup&Disclaimer"

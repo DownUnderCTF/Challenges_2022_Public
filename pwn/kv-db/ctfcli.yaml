@@ -1,0 +1,20 @@
+version: "0.1"
+id: kv-db
+name: kv_db
+category: pwn
+description: |
+  I created a key-value database and stored the flag in it.
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - medium
+files:
+  - ./publish/kv_db
+  - ./publish/kv_db.cpp
+  - ./publish/Dockerfile
+flags:
+  - DUCTF{m3m0ry_c0rrupt1on_1nt0_dat4b4s3_c0rrupt10n_8b9a14fa7e7c98aa}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

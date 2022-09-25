@@ -1,0 +1,18 @@
+version: "0.1"
+id: rsa-interval-oracle-iii
+name: rsa interval oracle iii
+category: crypto
+description: |
+  All this interaction is making me sleepy...
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/rsa-interval-oracle-iii.py
+flags:
+  - DUCTF{rsa_1nt3rv4l_0r4cl3_1s_n0_m4tch_f0r_y0u!}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

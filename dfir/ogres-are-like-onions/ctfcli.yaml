@@ -1,0 +1,20 @@
+version: "0.1"
+id: ogres-are-like-onions
+name: ogres are like onions
+category: DFIR
+description: |
+  if you see this you have to post in `#memes` thems the rules
+  
+  ```
+  docker run -tp 8000:8000 downunderctf/onions
+  ```
+
+  [hint](https://youtu.be/uFRHP02PruE)
+
+  Author: emily
+
+tags:
+  - easy
+
+flags:
+  - DUCTF{P33L_B4CK_TH3_L4Y3RS}

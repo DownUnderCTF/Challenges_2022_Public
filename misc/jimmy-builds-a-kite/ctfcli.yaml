@@ -1,0 +1,19 @@
+version: "0.1"
+id: jimmy-builds-a-kite
+name: Jimmy Builds a Kite
+category: misc
+description: |
+  I found this really cheap hosting provider to share my first game with everyone. Check it out!
+
+  https://jimmys-big-adventure.storage.googleapis.com/index.html
+
+  Author: BootlegSorcery
+
+hosting_type: cloud # ???
+
+tags:
+  - easy
+
+
+flags:
+  - DUCTF{Th0se_cr3ds_w3r3nt_m34nt_2_b33_th3r3}

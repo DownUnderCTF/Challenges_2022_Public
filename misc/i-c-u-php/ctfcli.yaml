@@ -1,0 +1,18 @@
+version: "0.1"
+id: i-c-u-php
+name: I C U PHP
+category: misc
+description: |
+  A simple c skills quiz I found in my professor's cgi-bin. What could go wrong?
+
+  Author: todo#7331
+connection_info: ${url}
+tags:
+  - medium
+files:
+  - ./publish/i-c-u-php.tar.gz
+flags:
+  - DUCTF{pr3pr0c3ssOrPoWer3dPHPpEEk1ngPuzZLe_2b842b}
+hosting:
+  type: kube
+  template: web-challenge.yaml

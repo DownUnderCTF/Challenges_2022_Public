@@ -1,0 +1,7 @@
+Create a .tar folder with two elements:
+
+- any random text file (like foo.txt)
+- a directory with 100 (readonly) permissions containing a symlink to /flag
+
+Upload it. Ruby will not be able to read the directory so it will skip over it, so
+the symlink will not be deleted.

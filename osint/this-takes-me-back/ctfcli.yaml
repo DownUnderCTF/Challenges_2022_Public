@@ -1,0 +1,56 @@
+version: "0.1"
+id: this-takes-me-back
+name: This Takes Me Back
+category: OSINT
+description: |
+  After a very successful DUCTF 2021, the DUCTF team met up for a few at a Sydney local on the 28th of September to celebrate. We all got kicked out at midnight on-the-dot, what song was playing on Triple J at the time?
+
+  Flag format: Song name, no spaces, case insensitive </br>
+  Flag example: `DUCTF{NeverGonnaGiveYouUp}`
+
+  Author: NoSurf#3704
+tags:
+  - easy
+flags:
+  - {
+    type: "static",
+    content: "DUCTF{Ain't It Fun}",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "DUCTF{Aint It Fun}",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "DUCTF{Ain'tItFun}",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "DUCTF{AintItFun}",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "Ain'tItFun",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "AintItFun",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "Ain't It Fun",
+    data: "case_insensitive"
+  }
+  - {
+    type: "static",
+    content: "Aint It Fun",
+    data: "case_insensitive"
+  }
+hosting:
+  type: null

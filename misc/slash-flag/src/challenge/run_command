@@ -1,0 +1,13 @@
+#!/bin/sh
+if [ ! -f "$STORAGE_FOLDER/$1" ]; then
+  dd if=/dev/zero "of=$STORAGE_FOLDER/$1" bs=1M count=1 
+  mkfs.ext4 -O '^has_journal' "$STORAGE_FOLDER/$1" > /dev/null
+fi
+mkdir -p "$MOUNTS_FOLDER/$1"
+if ! mount "$STORAGE_FOLDER/$1" "$MOUNTS_FOLDER/$1"; then
+  umount "$MOUNTS_FOLDER/$1"
+  echo "A transient error occurred, please try again"
+  exit 1
+fi
+nsjail -M o --chroot "$MOUNTS_FOLDER/$1" --rw --config nsjail.cfg -- /bin/bash -c "$2" || true
+umount "$MOUNTS_FOLDER/$1"

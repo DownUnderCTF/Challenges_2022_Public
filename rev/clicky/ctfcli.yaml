@@ -1,0 +1,19 @@
+version: "0.1"
+id: clicky
+name: Clicky
+category: rev
+description: |
+  Two ways to solve...click fast or rev?
+
+  Author: NoSurf#3704
+
+hosting_type: file
+
+tags:
+  - medium
+
+files:
+  - ./publish/ClickMe.exe
+
+flags:
+  - DUCTF{did_you_use_a_TAS?_ZGVhZGIzM2ZjYWZI}

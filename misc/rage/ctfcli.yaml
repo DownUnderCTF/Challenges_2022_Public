@@ -1,0 +1,40 @@
+version: "0.1"
+id: rage
+name: Rage!
+category: misc
+description: |
+  A raging Real Wild Child!
+  
+  Flag is the STRING you end up with after solving challenge, case insensitive.
+
+  Author: Yo_Yo_Bro
+
+hosting_type: file
+
+tags:
+  - easy
+
+files:
+  - ./publish/rage.wav
+
+flags:
+    - {
+        type: "static",
+        content: "RAGING TO WEIRD LIBIDO",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "RAGINGTOWEIRDLIBIDO",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{RAGING TO WEIRD LIBIDO}",
+        data: "case_insensitive",
+    }
+    - {
+        type: "static",
+        content: "DUCTF{RAGINGTOWEIRDLIBIDO}",
+        data: "case_insensitive",
+    }

@@ -1,0 +1,18 @@
+version: "0.1"
+id: no-symlink
+name: no-symlink
+category: web
+description: |
+  I heard symlinks are really dangerous so I delete them all and keep my secrets safe.
+
+  Author: hashkitten
+connection_info: ${url}
+tags:
+  - easy
+files:
+  - ./publish/no-symlink.tar.gz
+flags:
+  - DUCTF{are_symlinks_really_worth_the_trouble_they_cause?????}
+hosting:
+  type: kube
+  template: web-challenge.yaml

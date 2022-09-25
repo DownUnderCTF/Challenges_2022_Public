@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>Helicoptering</title>
+</head>
+
+<body>
+    <header>
+        <h1>Helicoptering</h1>
+    </header>
+        
+    <p>The two parts of the flag are available at the locations below:</p>
+
+    <ul>
+    	<li><a href="one/flag.txt">part one</a></li>
+    	<li><a href="two/flag.txt">part two</a></li>
+    </ul>
+
+    <p>Unfortunately, they are both protected by an <code>.htaccess</code> file:</p>
+
+    <h3>one/.htaccess</h3>
+
+    <pre>
+RewriteEngine On
+RewriteCond %{HTTP_HOST} !^localhost$
+RewriteRule ".*" "-" [F]
+    </pre>
+
+    <h3>two/.htaccess</h3>
+
+    <pre>
+RewriteEngine On
+RewriteCond %{THE_REQUEST} flag
+RewriteRule ".*" "-" [F]
+    </pre>
+
+    <p>Your job is to bypass these restrictions and view the flag files anyway. Good luck!</p>
+    
+    <!-- There's nothing hidden. You can solve just with the information above. -->
+
+</body>
+</html>

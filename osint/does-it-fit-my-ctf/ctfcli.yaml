@@ -1,0 +1,22 @@
+version: "0.1"
+id: does-it-fit-my-ctf
+name: Does It Fit My CTF?
+category: OSINT
+description: |
+  Cheers for that, I'm assuming you've worked out that I'm YouTuber... What's my channel name?
+
+  Note: This challenge assumes you have solved "Honk Honk" before attempting.
+
+  Flag format: Channel Name with no spaces, case insensitive </br>
+  Flag example: `DUCTF{LofiGirl}`
+
+  Author: NoSurf#3704
+tags:
+  - easy
+flags:
+  - {type: "static", content: "DUCTF{MightyCarMods}", data: case_insensitive}
+  - {type: "static", content: "MightyCarMods", data: case_insensitive}
+  - {type: "static", content: "DUCTF{Mighty Car Mods}", data: case_insensitive}
+  - {type: "static", content: "Mighty Car Mods", data: case_insensitive}
+hosting:
+  type: null

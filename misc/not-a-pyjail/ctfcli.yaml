@@ -1,0 +1,20 @@
+version: "0.1"
+id: not-a-pyjail
+name: not a pyjail
+category: misc
+description: |
+  No matter how strong my Python jail is, it keeps getting broken into. So I've decided to not execute anything at all.
+
+  Flag is in `/chal/flag.txt`.
+
+  Author: hashkitten
+connection_info: nc ${host} ${port}
+tags:
+  - easy
+files:
+  - ./publish/not-a-pyjail.py
+flags:
+  - DUCTF{next_time_ill_just_use_ast.parse}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

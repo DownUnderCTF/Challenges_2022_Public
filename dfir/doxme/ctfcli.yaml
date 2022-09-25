@@ -1,0 +1,16 @@
+version: "0.1"
+id: doxme
+name: doxme
+category: DFIR
+description: |
+  Office is my safe word...
+
+  Author: donfran#1306
+tags:
+  - beginner
+files:
+  - ./publish/doxme
+flags:
+  - DUCTF{WOrd_D0Cs_Ar3_R34L1Y_W3ird}
+hosting:
+  type: file

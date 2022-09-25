@@ -1,0 +1,18 @@
+version: "0.1"
+id: optimal-vee-ate
+name: optimal vee ate
+category: pwn
+description: |
+  I just made my first contribution to V8! The base commit hash is 1e98dd917ec4e8234174eea326fe8cf8fa283d2f.
+
+  Author: sradley#1448
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/optimal-vee-ate.tar.gz
+flags:
+  - DUCTF{1_gu3S5_0pt1MiZ4ti0n_1s_h4Rd3R_tH4n_1_Th0uGhT}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

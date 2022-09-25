@@ -1,0 +1,13 @@
+version: "0.1"
+id: time-locked
+name: time locked
+category: crypto
+description: "This script prints out a free flag! If you have a supercomputer... \n\nAuthor: joseph#8210\n"
+tags:
+  - medium
+files:
+  - ./publish/time-locked.py
+flags:
+  - DUCTF{p4y_t0_w1n_91ea0a7b4b688fc8}
+hosting:
+  type: file

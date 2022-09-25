@@ -1,0 +1,18 @@
+version: "0.1"
+id: rsa-interval-oracle-iv
+name: rsa interval oracle iv
+category: crypto
+description: |
+  No more picking and choosing.
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/rsa-interval-oracle-iv.py
+flags:
+  - DUCTF{rsa_1nt3rv4l_0r4cl3_1s_s3ri0usly_n0_m4tch_f0r_y0u...94b2a797eb5e0105}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml

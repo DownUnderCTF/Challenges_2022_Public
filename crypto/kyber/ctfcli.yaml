@@ -1,0 +1,21 @@
+version: "0.1"
+id: kyber
+name: kyber±
+category: crypto
+description: |
+  Just a regular Kyber implementation with some patches.
+
+  Author: joseph#8210
+connection_info: nc ${host} ${port}
+tags:
+  - hard
+files:
+  - ./publish/kyber.py
+  - ./publish/libpqcrystals_kyber512_ref.so
+  - ./publish/my.patch
+  - ./publish/build-kyber.sh
+flags:
+  - DUCTF{w3ll_d0n3_0n_und3rst4nd1ng_Kyber_4s_cl34r_4s_crystal..._n0w_c4n_y0u_br34k_1t_w1th0ut_th3_p4tch??_11f0ffee7cfaf83b794a05cc97293dc936f0fcb6164790ab}
+hosting:
+  type: kube
+  template: tcp-challenge-privileged.yaml
