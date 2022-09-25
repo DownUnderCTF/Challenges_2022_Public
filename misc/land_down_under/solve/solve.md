@@ -22,7 +22,7 @@ To right after the ` ¡***Ɔ SɹƎƎHƆ ` for an even faster solve.
 There are a couple of referneces to a flag cabinet pin that include it being loweracse and 64 / 2 which should hopefully hint at it
 being a non-standard base32 decode.
 
-Throuw it into a base34 decoder with a-z2-7 and you have:
+Throw it into a base32 decoder with a-z2-7 and you have:
 
 ``FLAG: DUCTF{ƐƖSSn∀_ɹ_n_sƖɥʇ_D∀Ɛɹ_NㄣƆ_∩0⅄_ℲI}``
 
